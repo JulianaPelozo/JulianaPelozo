@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente, trabalho com **administração de empresas**
 
-- 🌱 Estou estudando **Java Script**
+- 🌱 Estou estudando **Análise e Desenvolvimento de Sistemas**
 
 - 💬 Me pergunte sobre **Java, Python, Power BI**
 
