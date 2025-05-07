@@ -7,11 +7,10 @@
 
 - 🌱 Estou estudando **Análise e Desenvolvimento de Sistemas**
 
-- 💬 Me pergunte sobre **Java, Python, Power BI**
+- 💬 Me pergunte sobre **Java, SQL, Python*
 
 - 📫 E-mail **julianapelozopacheco@gmail.com**
 
-- ⚡ Fun fact **Eu amo café e gatos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
