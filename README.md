@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juliana</h1>
+<h1 align="center">Olá, me chamo Juliana</h1>
 <h3 align="center">Sou uma estudante de Análise e Desenvolvimento de Sistemas, aprendendo sobre coding com Java Script.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianapelozo" alt="julianapelozo" /></a> </p>
