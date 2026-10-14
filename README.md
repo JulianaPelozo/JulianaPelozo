@@ -24,6 +24,7 @@ Desenvolvedora em formação · Tecnologia, dados e criatividade
 </div>
 
 ✨ Um pouco sobre mim
+
 Me chamo Juliana Pelozo Pacheco: bacharel em Administração e estudante de Análise e Desenvolvimento de Sistemas. Gosto de descobrir como a tecnologia pode resolver problemas reais — seja desenvolvendo software, explorando dados, prototipando interfaces ou experimentando com robótica.
 Minha trajetória combina tecnologia e visão de processos. Participei de projetos de aplicações web, mobile e desktop na Residência Tecnológica do Porto Digital e também atuo com tecnologia e robótica educacional.
 - 💻 Desenvolvimento: gosto de transformar ideias em aplicações e aprender construindo.
